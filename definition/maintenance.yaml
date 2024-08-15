@@ -1,0 +1,29 @@
+type: identificator
+columns:
+  - column_name: id
+    type: int
+    possible_values: random_numbers
+    min: 1
+    max: 100
+
+  - column_name: timestamp
+    type: datetime
+    possible_values: fake_date
+
+  - column_name: prod_line
+    type: string
+    possible_values: fake_name
+
+  - column_name: power_consumption
+    type: int
+    possible_values: random_numbers
+    min: 18
+    max: 80
+
+  - column_name: event
+    type: string
+    possible_values: ["operating", "paused", "stopped", "starting", "error"]
+
+  - column_name: ref_stamp
+    type: datetime
+    possible_values: fake_date

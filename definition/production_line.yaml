@@ -1,0 +1,29 @@
+type: timeseries
+columns:
+  - column_name: timestamp
+    type: datetime
+    possible_values: fake_date
+
+  - column_name: prod_line
+    type: string
+    possible_values: ["line A", "line B", "line C"]
+
+  - column_name: voltage
+    type: float
+    possible_values: random_numbers
+    min: 218.01
+    max: 225.25
+
+  - column_name: current
+    type: float
+    possible_values: random_numbers
+    min: 0.055
+    max: 0.995
+
+  - column_name: event
+    type: string
+    possible_values: ["operating", "operating", "operating", "paused", "stopped", "starting", "error", "technical break"]
+
+  - column_name: checked_by
+    type: string
+    possible_values: ["john", "robot", "robot", "robot", "robot", "ivy"]

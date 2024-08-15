@@ -1,0 +1,51 @@
+,id,timestamp,prod_line,power_consumption,event,ref_stamp
+0,68,2022-01-09,Jeanette Mosley,69,paused,1971-08-14
+1,73,1993-11-30,Brenda Decker,54,paused,2018-02-24
+2,98,1971-11-22,Matthew Smith,70,starting,1972-02-08
+3,12,1974-08-17,Kayla Johnson MD,54,operating,2011-11-11
+4,96,2012-11-10,Lacey Thompson,40,error,2008-07-15
+5,45,2023-05-16,Michelle Pierce,29,error,1971-01-11
+6,56,1992-09-12,Barbara Blair,30,stopped,1993-08-17
+7,75,2021-11-02,Monica Martinez,39,starting,2008-07-02
+8,63,2013-10-19,Danielle Johnson,50,stopped,2003-03-05
+9,66,1990-09-18,Jacqueline Wells,63,starting,1996-11-19
+10,34,2004-05-16,Christian Fowler,59,error,1978-12-10
+11,37,1991-02-05,Diane Choi MD,26,stopped,2008-02-09
+12,69,2003-06-21,Amanda Lawrence,31,operating,1972-01-17
+13,66,1987-07-12,Jerry Murray,31,error,1971-01-04
+14,30,1979-02-13,Erica Walker,46,paused,1977-10-18
+15,24,1985-08-28,Richard Carter,39,starting,2012-04-18
+16,99,2021-10-28,Wendy Chambers,32,stopped,2013-05-09
+17,79,1999-07-25,Joshua Zamora,71,operating,1971-04-06
+18,99,2010-07-14,Mary Holt,38,error,2023-05-18
+19,75,1986-08-09,Sara Meza,60,starting,2014-09-17
+20,86,2005-05-12,Matthew Jackson,51,starting,1983-05-08
+21,40,2005-02-12,Allison Castaneda,68,operating,1975-03-02
+22,24,2005-04-27,Micheal Carrillo,79,operating,2017-04-07
+23,5,1988-12-21,Leah Henderson,50,operating,1978-08-03
+24,55,1979-05-09,Bill Andrade,34,stopped,1985-11-03
+25,73,2004-07-03,Jacob Morton,32,error,1995-04-14
+26,50,1982-10-25,James Moore,80,error,2007-06-03
+27,57,1985-08-01,Paul Cooper,58,starting,2018-01-10
+28,77,1970-08-07,Charles Rhodes,39,operating,1977-10-17
+29,81,2003-01-16,Steven Hunter,57,starting,2022-12-25
+30,17,1991-12-27,Dr. Samantha Foster,77,error,1982-04-03
+31,23,2003-01-15,Amber West,55,starting,2015-10-24
+32,95,1972-01-11,Steven Fischer,77,stopped,1995-10-24
+33,36,1980-04-04,Garrett Ramirez,34,error,1980-09-17
+34,77,1976-04-20,Holly Oconnor,21,paused,2021-06-02
+35,45,2014-01-10,Douglas Butler,55,paused,1994-07-22
+36,64,1986-11-30,Rachel Thompson,47,error,2016-02-04
+37,13,1990-09-08,Rachel Montgomery,24,paused,1989-05-19
+38,47,2013-12-28,Austin Washington,18,operating,1985-02-20
+39,58,1975-08-12,Brian Robinson,20,operating,2014-06-23
+40,9,1999-07-28,Mr. Keith Cohen MD,32,error,2001-02-02
+41,84,2021-01-07,Dustin Santana,65,starting,1997-01-05
+42,76,2001-05-02,Jennifer Vargas,46,starting,1990-01-18
+43,85,2015-04-10,Ellen Allen,39,starting,1987-01-22
+44,59,2022-08-07,Dawn Palmer,56,paused,2009-10-10
+45,89,2004-01-07,Randall Glenn,25,stopped,1989-07-09
+46,2,1977-07-20,Traci Hatfield MD,64,operating,2008-04-15
+47,50,1995-12-12,Wayne Mitchell,63,stopped,2010-05-25
+48,84,1987-03-01,Jaime Martin,54,stopped,2009-03-04
+49,90,2022-07-03,Tara White,25,stopped,1972-03-07
