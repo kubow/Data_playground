@@ -1,0 +1,5 @@
+user_group_id,user_group_name,workspace_id,workspace_permission,data_source_id,data_source_permission
+a_ug,Customer General,gdc_demo_8233544a-ce3b-48e4-a005-cd3dabd6667f,ANALYZE,gdc_demo_8f2ddec9-15df-407b-8906-81847c570361,USE
+b_ug,Customer 1,gdc_demo_9ac83ce2-b5c9-4a8c-8fa8-51bd5025fac8,VIEW,gdc_demo_8f2ddec9-15df-407b-8906-81847c570361,USE
+c_ug,Customer 2,gdc_demo_6f5d64d2-6ba6-4457-b622-01c66125a26d,ANALYZE,gdc_demo_8f2ddec9-15df-407b-8906-81847c570361,USE
+d_ug,Customer 3,gdc_demo_65927ec9-66a5-4444-aac3-d1f9f90374ee,VIEW,gdc_demo_8f2ddec9-15df-407b-8906-81847c570361,USE

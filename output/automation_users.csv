@@ -1,0 +1,7 @@
+user_id,user_first,user_last,user_group
+a1_usr,"Customer 1",Admin,b_ug
+a2_usr,"Customer 1","End User",b_ug
+a3_usr,Mr,Aston,b_ug
+a4_usr,Mr,Alex,b_ug
+b_usr,"Customer 2","End User",c_ug
+c_usr,"Customer 3","End User",d_ug

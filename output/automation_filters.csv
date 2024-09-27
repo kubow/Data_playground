@@ -1,0 +1,5 @@
+filter_id,filter_type,entity_id,workspace_id,filter_field,filter_exp
+f1,user,a1_usr,gdc_demo_8233544a-ce3b-48e4-a005-cd3dabd6667f,product_category,Computers & Accessories
+f2,user,b_usr,gdc_demo_9ac83ce2-b5c9-4a8c-8fa8-51bd5025fac8,product_category,Furniture
+f3,user,c_usr,gdc_demo_6f5d64d2-6ba6-4457-b622-01c66125a26d,product_category,Home Goods
+
