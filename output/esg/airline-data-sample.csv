@@ -29,3 +29,33 @@ Aircraft ID,Flight Number,Departure Airport,Arrival Airport,Distance Traveled (k
 28,GR786,AMS (Amsterdam Airport Schiphol),DUB (Dublin Airport),2280,285.93,60908,91,2.6,6357.0,69.86,2.79,22.23,0.1
 29,GR967,FCO (Leonardo da Vinci–Fiumicino Airport),HEL (Helsinki Airport),1077,139.33,59006,98,1.5,3115.0,31.79,2.89,22.36,0.05
 30,GR848,CDG (Paris Charles de Gaulle Airport),PRG (Prague Airport),1611,198.64,60494,114,1.9,4547.0,39.89,2.82,22.89,0.08
+31,GR876,FRA (Frankfurt Airport),BCN (Barcelona El Prat Airport),1130,143.51,60755,147,1.5,3061.0,20.82,2.71,21.33,0.05
+32,GR820,AMS (Amsterdam Airport Schiphol),BCN (Barcelona El Prat Airport),2581,315.78,64594,97,3.0,7180.0,74.02,2.78,22.74,0.11
+33,GR721,FRA (Frankfurt Airport),PRG (Prague Airport),946,112.08,53751,134,1.1,2406.0,17.96,2.54,21.47,0.04
+34,GR942,FCO (Leonardo da Vinci–Fiumicino Airport),HEL (Helsinki Airport),2440,288.59,51489,103,2.9,6926.0,67.24,2.84,24.0,0.13
+35,GR942,FRA (Frankfurt Airport),OSL (Oslo Gardermoen Airport),976,117.37,58597,120,1.4,2730.0,22.75,2.8,23.26,0.05
+36,GR850,FCO (Leonardo da Vinci–Fiumicino Airport),BCN (Barcelona El Prat Airport),1237,149.08,60767,138,1.5,3561.0,25.8,2.88,23.89,0.06
+37,GR895,AMS (Amsterdam Airport Schiphol),HEL (Helsinki Airport),1220,159.84,51430,125,1.6,3828.0,30.62,3.14,23.95,0.07
+38,GR709,AMS (Amsterdam Airport Schiphol),OSL (Oslo Gardermoen Airport),1907,247.51,62902,102,2.7,5751.0,56.38,3.02,23.24,0.09
+39,GR703,LHR (London Heathrow Airport),BCN (Barcelona El Prat Airport),1228,145.45,62591,148,1.4,3298.0,22.28,2.69,22.67,0.05
+40,GR822,CDG (Paris Charles de Gaulle Airport),OSL (Oslo Gardermoen Airport),2569,330.38,51913,125,3.5,7441.0,59.53,2.9,22.52,0.14
+41,GR810,AMS (Amsterdam Airport Schiphol),PRG (Prague Airport),1929,231.41,61982,121,2.4,5262.0,43.49,2.73,22.74,0.08
+42,GR909,LHR (London Heathrow Airport),HEL (Helsinki Airport),1774,224.69,52703,104,2.3,4931.0,47.41,2.78,21.95,0.09
+43,GR899,AMS (Amsterdam Airport Schiphol),BCN (Barcelona El Prat Airport),1031,131.31,62071,114,1.2,3071.0,26.94,2.98,23.39,0.05
+44,GR963,CDG (Paris Charles de Gaulle Airport),BCN (Barcelona El Prat Airport),2087,266.16,53646,105,2.4,6005.0,57.19,2.88,22.56,0.11
+45,GR975,LHR (London Heathrow Airport),PRG (Prague Airport),2781,336.19,62489,141,3.4,8057.0,57.14,2.9,23.97,0.13
+46,GR915,LHR (London Heathrow Airport),OSL (Oslo Gardermoen Airport),1698,205.04,54063,101,2.4,4486.0,44.42,2.64,21.88,0.08
+47,GR753,LHR (London Heathrow Airport),OSL (Oslo Gardermoen Airport),1275,165.03,55883,100,1.5,3723.0,37.23,2.92,22.56,0.07
+48,GR941,CDG (Paris Charles de Gaulle Airport),FCO (Leonardo da Vinci–Fiumicino Airport),2135,257.94,53650,134,2.4,6129.0,45.74,2.87,23.76,0.11
+49,GR930,LHR (London Heathrow Airport),OSL (Oslo Gardermoen Airport),1312,174.22,57861,108,1.8,3793.0,35.12,2.89,21.77,0.07
+50,GR772,CDG (Paris Charles de Gaulle Airport),BCN (Barcelona El Prat Airport),1568,192.12,55282,114,1.8,4313.0,37.83,2.75,22.45,0.08
+51,GR780,CDG (Paris Charles de Gaulle Airport),FCO (Leonardo da Vinci–Fiumicino Airport),1471,184.66,52122,150,2.0,4083.0,27.22,2.78,22.11,0.08
+52,GR849,FCO (Leonardo da Vinci–Fiumicino Airport),DUB (Dublin Airport),1224,147.75,60468,107,1.7,3307.0,30.91,2.7,22.38,0.05
+53,GR755,LHR (London Heathrow Airport),BCN (Barcelona El Prat Airport),1366,162.11,58337,150,1.7,3714.0,24.76,2.72,22.91,0.06
+54,GR842,AMS (Amsterdam Airport Schiphol),HEL (Helsinki Airport),1586,189.82,57153,100,2.1,4353.0,43.53,2.74,22.93,0.08
+55,GR891,CDG (Paris Charles de Gaulle Airport),FCO (Leonardo da Vinci–Fiumicino Airport),1241,153.46,54731,108,1.6,3331.0,30.84,2.68,21.71,0.06
+56,GR923,FCO (Leonardo da Vinci–Fiumicino Airport),DUB (Dublin Airport),1619,206.13,64730,115,2.0,4685.0,40.74,2.89,22.73,0.07
+57,GR880,CDG (Paris Charles de Gaulle Airport),FCO (Leonardo da Vinci–Fiumicino Airport),1822,218.03,57041,133,2.4,4644.0,34.92,2.55,21.3,0.08
+58,GR929,FRA (Frankfurt Airport),DUB (Dublin Airport),1563,190.18,58730,130,2.1,4433.0,34.1,2.84,23.31,0.08
+59,GR833,AMS (Amsterdam Airport Schiphol),HEL (Helsinki Airport),1333,170.35,62661,101,1.7,3816.0,37.78,2.86,22.4,0.06
+60,GR970,FRA (Frankfurt Airport),HEL (Helsinki Airport),1397,180.94,63723,102,1.8,4154.0,40.73,2.97,22.96,0.07
